@@ -1,0 +1,21 @@
+#gameContainer{
+    text-align: center;
+
+}
+#gameBoard{
+    border: 4px solid;
+
+}
+#score{
+    font-family:  'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:100px;
+}
+#restart{
+    font-family: "parmant Marker", cursive;
+    font-size:25px;
+    border: 5px solid ;
+    border-radius: 15px;
+    height: 50px;
+    width: 120px;
+    cursor: pointer;
+}
